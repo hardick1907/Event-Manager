@@ -1,4 +1,4 @@
-# Eventhub - A Event Management System 🗓️
+# Eventhub - A Event Management System
 
 This repository is a full-stack **Event Management System** designed to enable users to create, manage, and join events. The system is built with **Node.js**, **Express**, **MongoDB**, **React**, and **Socket.IO** for real-time updates. It also integrates with **Cloudinary** for image uploads and **JWT** for secure authentication.
 
